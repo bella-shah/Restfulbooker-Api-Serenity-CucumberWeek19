@@ -1,0 +1,4 @@
+com\herokuapp\restful_booker\testbase\TestBaseBooking.class
+com\herokuapp\restful_booker\cucumber\steps\MyStepdefs.class
+com\herokuapp\restful_booker\bookinginfo\CreateBookingCRUDTestWithSteps.class
+com\herokuapp\restful_booker\cucumber\CucumberRunner.class
